@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT9H37M42.4278534S" SolutionTotalViewTime="PT5H57M44.0580552S" SolutionTotalDebugTime="PT38M37.4215587S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\repos\WebBrowser</SolutionFolder>
+  <SolutionCreattionDate>2020-10-15T17:02:07.8086729+02:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-15T17:02:01.1266794+02:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.9402115S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-04-01T13:38:27.0844862+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT16.2579861S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\4213462-communication-global-internet-network-web-worldwide-www_115426.ico</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:42:02.3201823+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33.0879676S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\app.manifest</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-08T18:31:42.6651703+01:00</CreatedDate>
+      <ViewedBy>anmul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.8196298S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\App.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:42:29.787264+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M46.9432784S" EditActiveTime="PT1M26.4677839S">
+      <ModifiedDate>2020-12-01T18:16:20.3372163+01:00</ModifiedDate>
+      <ModifiedBy>armul</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\app1.manifest</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-29T22:08:43.9898468+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.0946969S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\browser_globe_internet_icon-icons.com_67284.ico</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:12.814847+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.7782429S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>\Users\armul\.software\CodeTime.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-10-15T17:53:43.7355091+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT38M37.4215587S" EditActiveTime="PT1H33M58.0084088S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>17</EditedCount>
+      <ViewedCount>44</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-10-15T17:02:58.358519+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M58.1715107S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\edge_browser_logo_icon_152998.ico</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:11.7038432+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.8869538S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\emblemdownloads_93482.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-08T20:20:59.3755471+01:00</CreatedDate>
+      <ViewedBy>anmul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.8605723S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\emblemweb_93503.ico</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:42:22.1410823+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M45.0685325S" EditActiveTime="PT2M28.8896413S">
+      <ModifiedDate>2020-11-07T19:53:08.1715184+01:00</ModifiedDate>
+      <ModifiedBy>anmul</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>25</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Favoriten.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-06T14:39:15.1020194+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11M40.5568137S" EditActiveTime="PT11M50.767173S">
+      <ModifiedDate>2020-11-07T17:27:16.0357427+01:00</ModifiedDate>
+      <ModifiedBy>anmul</ModifiedBy>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>6</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Favoriten.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-06T14:39:49.3334319+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.3024522S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image1.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:10.9897752+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M55.3845213S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image10.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:42:54.545097+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT38.1521404S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image11.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:25:36.9597369+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.4267266S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image12.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:43:07.5986205+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.1288065S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image13.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:43:09.4091305+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT31.9305097S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image14.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:43:11.4525996+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.7041963S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image15.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-08T18:58:18.2639524+01:00</CreatedDate>
+      <ViewedBy>anmul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.036279S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image17.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-08T20:26:16.8414454+01:00</CreatedDate>
+      <ViewedBy>anmul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M42.1630651S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image18.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-08T20:27:13.1657089+01:00</CreatedDate>
+      <ViewedBy>anmul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.2997954S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image2.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:43:13.0071478+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.9337903S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image20.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-17T20:19:57.423969+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.0492557S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image21.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-17T20:42:42.7193122+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.447056S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image23.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-17T20:43:28.2694532+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.4150693S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image24.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-11-17T20:46:41.0422637+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0288973S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image25.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-12-03T18:23:27.0972335+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.1838986S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image3.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:43:15.7311517+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.5556515S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image4.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:09.9260598+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.7891082S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image5.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:08.936536+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.8725282S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image6.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:07.6569851+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.764673S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image7.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:06.3853189+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.2963292S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image8.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:04.9249297+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.8037871S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image9 - Copy.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:24:14.4702025+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT32.6270482S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Image9.png</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:20:03.1209102+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2H15M47.87271S" EditActiveTime="PT3H50M8.8825994S">
+      <ModifiedDate>2020-12-03T20:11:14.7556779+01:00</ModifiedDate>
+      <ModifiedBy>armul</ModifiedBy>
+      <EditedCount>24</EditedCount>
+      <ViewedCount>53</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-15T17:02:07.8326077+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2H25M33.0083938S" EditActiveTime="PT4H39M40.3636685S">
+      <ModifiedDate>2020-12-03T19:30:59.3008486+01:00</ModifiedDate>
+      <ModifiedBy>armul</ModifiedBy>
+      <EditedCount>28</EditedCount>
+      <ViewedCount>50</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-15T17:02:59.2133569+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M35.1522959S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\armul\source\repos\ERROR\ERROR\MainWindow.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-12-03T19:57:34.8056111+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51.7693983S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Resource1.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-18T16:23:22.5550906+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.0246096S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Properties\Resources.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-15T17:53:31.587899+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.122003S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Properties\Settings.settings</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-15T17:53:33.6135061+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25M31.962979S" EditActiveTime="PT29M39.925977S">
+      <ModifiedDate>2020-12-03T20:11:41.207209+01:00</ModifiedDate>
+      <ModifiedBy>armul</ModifiedBy>
+      <EditedCount>6</EditedCount>
+      <ViewedCount>31</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Verlauf.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-23T16:11:05.5240611+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11M12.9615776S" EditActiveTime="PT22M27.1310103S">
+      <ModifiedDate>2020-11-07T17:30:56.6776118+01:00</ModifiedDate>
+      <ModifiedBy>anmul</ModifiedBy>
+      <EditedCount>5</EditedCount>
+      <ViewedCount>12</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Verlauf.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-23T16:29:44.256659+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28.5901111S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\wondicon-ui-free-website_111210 (1).ico</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:37:32.6408741+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.7732081S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\wondicon-ui-free-website_111210.ico</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2020-10-24T12:41:48.9452919+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.9372132S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-04-01T13:38:27.0844862+02:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT47.2076049S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Verlauf.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-03-03T20:18:46.36433+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.8436646S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-03-03T20:18:41.5537676+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.6598002S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Favoriten.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-03-03T20:18:30.8141537+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.6712266S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Verlauf.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-03-03T20:18:28.9104677+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.5111869S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-03-03T20:18:23.6744508+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.2240035S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-02-17T20:06:30.2585843+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.9876154S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Favoriten.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-02-07T14:28:39.2664253+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.30129S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-07T14:28:36.3826454+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9670372S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-02-07T14:27:45.4169269+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M46.4332403S" EditActiveTime="PT0.8674189S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-02-07T14:09:49.840099+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.3380022S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-06T17:08:16.4498193+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.1395782S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\Favoriten.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-02-06T17:07:41.9576421+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M59.4545016S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\repos\WebBrowser\WebBrowser\MainWindow.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\repos\WebBrowser\WebBrowser\WebBrowser.csproj</ProjectName>
+      <CreatedDate>2021-02-06T16:25:25.6264222+01:00</CreatedDate>
+      <ViewedBy>armul</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>

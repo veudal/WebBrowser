@@ -1,0 +1,23 @@
+﻿<Window x:Class="WebBrowser.Verlauf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebBrowser"
+        mc:Ignorable="d"
+        Title="Verlauf" Height="450" Width="800" Activated="Window_Activated" Background="#FF2D2D30">
+    <Grid >
+
+        <ListBox x:Name="historyList" HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="659" FontSize="20" FontStyle="Italic" SelectionChanged="historyList_SelectionChanged" Background="#FF2D2D30" Foreground="#FFF1F2F7"/>
+        <Button x:Name="explorer" HorizontalAlignment="Left" Height="53" Margin="691,0,0,0" VerticalAlignment="Top" Width="73" Background="{x:Null}" BorderBrush="{x:Null}" Click="explorer_Click">
+            <Image Height="53" Source="Image14.png" Stretch="Fill" Width="52"/>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Height="218" Margin="670,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" FontSize="20" Foreground="#FFF1F2F7"><Run Text="Klicke einen "/><Run Text="L"/><Run Text="ink an um ihn in die Zwischenab"/><Run Text="-"/><LineBreak/><Run/><Run Text="lage zu"/><LineBreak/><Run Text="speichern"/><Run Text=" und ihn zu öffnen"/></TextBlock>
+        <CheckBox x:Name="conCeck" Content="Bestätigung &#xA;vor dem&#xA;Löschen" HorizontalAlignment="Left" Height="53" Margin="681,68,0,0" VerticalAlignment="Top" Width="94" IsChecked="True" Click="CheckBox_Click" Foreground="#FFF1F2F7"/>
+        <Button x:Name="delButton" HorizontalAlignment="Left" Height="55" Margin="727,354,0,0" VerticalAlignment="Top" Width="55" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="delButton_Click">
+            <Image Source="Image8.png" Stretch="Fill" Height="55" Width="55"/>
+        </Button>
+
+
+    </Grid>
+</Window>

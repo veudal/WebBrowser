@@ -1,0 +1,6 @@
+
+
+24.10.2020 12:38:13 :
+System.ArgumentException: Falscher Parameter. (Exception from HRESULT: 0x80070057 (E_INVALIDARG))
+   at EnvDTE.Document.get_Name()
+   at DevTracker.DevTrackerToolWinControl.SwitchActiveItem(Document document) in C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinControl.xaml.cs:line 363
